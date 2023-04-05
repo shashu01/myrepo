@@ -1,3 +1,26 @@
 NOTES FOR GIT...
 
+git init -- to initialise emoty git repo
+
+git status -- to check status of file
+
+git add -- to track all files
+
+git commit -- to commit file or to create versions
+
+git log -- to show all listed versions
+
+git configure user.name --  to change author name 
+
+git configure user.email -- to change mail 
+
+--global .. to set author name to all for root user
+
+--system .. to set author name for all the user in system 
+
+git clone link -- to download code from github
+
+git remote add "name" "link" -- to push directory to github
+
+git push "name" master -- for error 
 
