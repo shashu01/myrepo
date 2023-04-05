@@ -22,5 +22,7 @@ git clone link -- to download code from github
 
 git remote add "name" "link" -- to push directory to github
 
-git push "name" master -- for error 
+git push "name" master -- for error
+
+more is to come 
 
